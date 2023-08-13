@@ -4,7 +4,7 @@
 <b>PaySal
 <br></b>
 </p>
-<blockquote align="center">built on <span style="color: #8b0000;">☕</span> at <a href="https://ethforall.devfolio.co/">Web3 Init</a>.</blockquote>
+<blockquote align="center">built on <span style="color: #8b0000;">☕</span> at <a href="https://ethglobal.com/events/superhack">SuperHack</a>.</blockquote>
 
 # 💡 **What we solve**
 
@@ -19,6 +19,7 @@ Also, the user need not be able to know how wallets like metamask work and be co
 
 # 🧠 Knowledge Primer
 
+- [Mode](https://docs.mode.network/) is an Ethereum layer-2 blockchain designed for hyper-growth. Our smart contract is deployed on Mode.
 - [BananaWallet SDK](https://banana-wallet-docs.rizelabs.io/) is a smart contract wallet infrastructure for key management and 2FA solutions.
 
 # 💻 Tech Stack
@@ -42,8 +43,3 @@ Also, the user need not be able to know how wallets like metamask work and be co
 - Banana wallet SDK was new to us and we had some time figuring it out.
 - Adding multiple organization support was a bit of a hassle.
 - Since we had exams in between, time constraint was also there.
-
-# 🤝 Contributors
-<a href="https://github.com/karanpargal/paysal/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=karanpargal/paysal" />
-</a>
