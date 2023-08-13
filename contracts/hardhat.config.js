@@ -6,8 +6,8 @@ module.exports = {
   networks: {
     hardhat: {
     },
-    polygon_mumbai: {
-      url: "https://rpc-mumbai.maticvigil.com",
+    mode: {
+      url: "https://sepolia.mode.network/",
       accounts: [process.env.PRIVATE_KEY]
     }
   },
